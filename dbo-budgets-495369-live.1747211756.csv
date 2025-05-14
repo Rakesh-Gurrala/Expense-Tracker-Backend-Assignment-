@@ -1,0 +1,24 @@
+id,created_at,user_id,category_,month,budget_amount,predicted_spend
+1,1747166179652,3,"currant blackcurrant","lychee guavaberry",1,55
+2,1747166179658,3,"bay dandelion","fleshymistletoe rosehip",41,32
+3,1747166179662,3,"clary blueberry","loquat voavanga",73,90
+4,1747166179666,3,"eggnut redcurrant","ackee spanishlime",71,85
+5,1747166179675,2,"dewberry earthstar","mangosteen lime",0,6
+6,1747166179680,3,"mint mangostan","pineapple açaí",20,57
+7,1747166179713,2,"tarragon tamarillo","guava wildbanana",85,49
+8,1747166179724,3,"elderberry hawthorn","celery butterfruit",23,6
+9,1747166179729,3,"salsify gardenrocket","tatsoi noni",78,41
+10,1747166179735,2,"carambola pumpkin","waterchestnut wampi",13,10
+11,1747166179740,2,"dewberry elephantapple","falsepear tayberry",61,38
+12,1747166179745,2,"tomato hackberry","zapote medjool",46,86
+13,1747166179750,2,"jacote kumquat","sunchoke mombin",49,77
+14,1747166179755,3,"gardenrocket marjoram","cherry mushroom",48,6
+15,1747166179760,3,"pili jícama","peach santol",64,39
+16,1747166179773,3,"fava passionfruit","caraway mangosteen",69,42
+17,1747166179777,3,"mango miraclefruit","olive waxgourd",37,45
+18,1747166179782,2,"banana jostaberry","wildcherry cilantro",71,61
+19,1747166179799,2,"wildcherry zabala","yellowfruit longan",93,71
+20,1747166179804,2,"damson passionfruit","arugula lovage",23,50
+21,1747166218269,0,Food,2025-05,,
+22,1747166332845,0,Food,2025-05,76,83
+23,1747166343719,0,Food,2025-05,76,83
